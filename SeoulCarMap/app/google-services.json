@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065668406550",
+    "firebase_url": "https://seoulcarmap.firebaseio.com",
+    "project_id": "seoulcarmap",
+    "storage_bucket": "seoulcarmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065668406550:android:75b482533bd91aee",
+        "android_client_info": {
+          "package_name": "com.example.dlapd.seoulcarmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065668406550-gemdrk58lbq1uj5iavdad06uuugvgth0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dlapd.seoulcarmap",
+            "certificate_hash": "eb86c126fcf2002bcd72e672d1d6051cf3241cbb"
+          }
+        },
+        {
+          "client_id": "1065668406550-8hi2mn2hg17urkjfvl63t3t9tjlkrv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08nRdeFZaibnCQsyv2yG_E2oZHlLxIEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065668406550-8hi2mn2hg17urkjfvl63t3t9tjlkrv60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
